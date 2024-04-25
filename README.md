@@ -1,13 +1,26 @@
-# NumericDesignerNote
+## Game Design Note: numeric setup,match making,game balancing and other interesting stuff
+### About me
+#### Education:
+Bachelor degree at CUFE in China Major in information security, Minor in Financial
+Master degree at UNSW in Australia
 
-Q:为什么要进入游戏策划这个行业?
+#### Working experience
+##### Current:
+Tencent - Tiki Studio - NBA infinite
+Game Designer - Matchmaking System,In Game Data Analytics,Numeric Setup,Game Balancing,
 
-A:因为做游戏很酷
+##### Intern:
+Tencent - Tiki Studio - Best NBA
+Game Designer - combat designer 
 
-Q:做游戏失去了什么?
+CIECC - Investment Department
 
-A:失去了一份可以去西南地区养老的运营商offer,失去了一次可以去颈部券商的offer,还可能为此失去一个女朋友(虽然我一点锅没有)
+Dongxing Securities - Quantative Research Assistant
 
-Q:游戏策划在国内是不是35岁就失业了?
+Langma Information Corp - Data Analytics
 
-A:我也不知道,我的BG是两财一贸+QS30硕,算是这里面的异类,想做游戏就去做,感谢我爸妈为我兜底,以后万一被裁员了,还有机会回老家躺平养老.
+#### Gaming experience:
+1. FPS - CS series over 5k hours spent (rank GE and faceit level 9 Asia server)
+2. MOBA - DOTA series over 3k hours spent (rank Ancient in Dota2)
+3. MMORPG - Fantasy Westward Journey / WOW over 5k hours spent (PVP player, over 50k dollars spent)
+4. Mobile Games - Too many to count. Brawl Stars (top 1000 in China server 2022). Honor of King ( Top 1% player ) 
